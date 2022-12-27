@@ -1,0 +1,8 @@
+/node_modules
+/public/js/*.js
+/public/js/*.txt
+/build
+debug.js
+.DS_Store
+/performance/logs/*
+!/performance/logs/.gitkeep
